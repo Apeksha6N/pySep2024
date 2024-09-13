@@ -1,0 +1,21 @@
+body{
+    font-family: 'Verdana';
+}
+#menus{
+    background-color:rgb(204, 109, 54);
+    padding : 10px;
+    text-align:center;
+
+}
+#menus a{
+    color: white;
+    text-decoration: none;
+    display : inline-block;
+    background-color: rgb(233, 16, 45);
+    padding:3px;
+    width: 80px;
+    text-align:center;
+    border: 2px solid black;
+    border-radius:  20px;
+
+}
